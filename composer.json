@@ -1,0 +1,17 @@
+{
+    "name": "gsutton/job-queue-tut",
+    "autoload": {
+        "psr-4": {
+            "JobQueueTut\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Graham Sutton",
+            "email": "grahamsutton2@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "fzaninotto/faker": "^1.5"
+    }
+}
